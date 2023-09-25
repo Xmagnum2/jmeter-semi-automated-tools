@@ -1,0 +1,5 @@
+results/*
+results-index/*
+!combined_statistics.py
+.env
+*.log

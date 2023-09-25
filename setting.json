@@ -1,0 +1,9 @@
+{
+    "property_sets": [
+        {"threads": 1, "duration": 1, "size": 1}
+    ],
+    "loop_count_per_set": 3,
+    "wait_time": 0,
+    "result_base_folder": "results",
+    "test_plan": "jmeter/performanceTests.jmx"
+}

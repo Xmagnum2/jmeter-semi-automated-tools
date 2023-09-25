@@ -11,9 +11,9 @@ The default features provided by this tool are as follows:
 Also, due to its simple design, it is easy to extend optionally by embedding preprocessing and post-processing before and after JMeter execution.
 
 ## Environment
-java 11.0.18 2023-01-17 LTS
-jmeter 5.5 (5.6 has a bug in CLI and does not work correctly)
-python 3.11.1
+java 11.0.18 2023-01-17 LTS  
+jmeter 5.5 (5.6 has a bug in CLI and does not work correctly)  
+python 3.11.1  
 
 ## Performance Verification
 ### JMeter Settings
